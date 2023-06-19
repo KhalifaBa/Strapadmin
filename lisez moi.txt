@@ -1,0 +1,83 @@
+/-------------------------------------------/
+Kit graphique "Strapadmin" by SausaURJ
+http://www.KitGraphique.net
+/------------------------------------------/
+Kit telechargé sur KitGraphique.net
+/------------------------------------------/
+
+- Description :
+
+Strapadmin est un kit graphique basé sur le bootstrap de Twitter.
+Ce thème a été totalement adapté et est compatible "responsive", pour aller sur tout les
+navigateurs possible et appareils mobiles possibles.
+Créer votre panneau d'administration simplement et rapidement, modifiable facilement et très simple d'utilisation.
+
+http://twitter.github.com/bootstrap/
+
+Contient :
+* Bootstrap 2.0.2
+* jQuery 1.7.1
+* Responsive
+* Tableaux de prix
+* FAQ Plugin w/ recherche
+* fontawesome
+* et + encore !
+
+
+- Installation :
+
+Dézipper le kit graphique dans un dossier et uploadez le contenu du dossier "html" à la racine de votre site ou où vous 
+voullez que votre site apparaisse.
+
+- Personnalisation :
+
+Pour commencer à ecrire dans le kit graphique, rajouter des liens, des photos vous devez l'ouvrir avec un éditeur html.
+Voici une liste de nombreux editeurs html :
+- Dreamweaver
+- NotePad++
+- Frontpage
+
+Il en existe beaucoup d'autres mais nous vous conseillons Dreamweaver ou NotePad++.
+
+------------------------------------------------------------------------------------------------------
+
+
+NOTES IMPORTANTES :
+
+1) Les polices :
+
+- Le dossier "Polices" contient les polices utilisées pour le kit graphique. Elles servent à modifier le titre de votre logo
+  ou d'autres images dans le kit graphique. Placez les dans C:\Windows\Fonts.
+
+2) Les images modifiables :
+
+- Le dossier "psd" contient les images que vous pouvez modifier à l'aide de Adobe Photoshop.
+- Les fichiers sont au format ".psd".
+
+3) Le kit graphique
+
+- Le dossier "html" comprend le site en lui-même.
+- Vous devrez uploader TOUS les fichiers du dossier sur votre serveur ftp.
+- Le fichier de style (.css) contient les couleurs de votre kit, les couleurs des liens, les styles des polices.
+- Le sous-dossier "images" situé dans le dossier "images" contient toutes les images du kit graphique.
+
+******************************************
+************** LE COPYRIGHT **************
+******************************************
+
+Le copyright mentionnant le pseudo du designer ainsi que la mention KitGraphique.net est INDISPENSABLE.
+Le copyright doit figurer sur votre site et ne peut être enlevé.
+Par contre une partie du copyright est réservée pour votre site et peut être changée sans problème.
+
+4) Le support 
+
+- Vous avez un problème avec ce kit ?
+- Il vous manque des images ?
+- Vous comprenez mal l'installation du kit ?
+
+
+Rendez-vous sur KitGraphique.net dans la partie "FAQ" du site. Si vous ne trouvez toujours pas de réponses vous pouvez
+nous contacter via la rubrique "Forums" du site ou alors via la rubrique "Contact".
+
+
+Cordialement l'équipe de KitGraphique.net
